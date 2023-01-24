@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Business Card app</string>
+    <string name="developer_name">Jonathan Marcelo Peres</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="phone">+55 (48) 99650-4324</string>
+    <string name="email">emailmarceloperes@gmail.com</string>
 </resources>
